@@ -1,0 +1,50 @@
+{
+    "__WELCOME_PAGE__": "These content for welcome page",
+    "app_name": "Deto App",
+    "app_description": "This app to know new people and discover nearby trips",
+    "btn_discover": "Dicover App",
+    "btn_login": "Login",
+    "btn_sign_up": "Sign up",
+
+    "__Login_PAGE__": "These content for welcome page",
+    "lbl_login_title" : "Welcome",
+    "lbl_login_subtitle": "You must login to use this app",
+    "txt_login_email" : "Email address",
+    "txt_login_password" : "Password",
+    "lbl_login_forget_password" : "Forgot password?",
+    "lbl_login_new_user": "Are you new user?",
+    "lbl_login_create_account": "Create account",
+
+    "__REGISTRATION_PAGE__": "These content for registration page",
+    "lbl_registration_title" : "Welcome",
+    "lbl_registration_name" : "Name",
+    "lbl_registration_subtitle": "Please fill this data",
+    "txt_retype_password" : "Confirm password",
+    "lbl_registration_continue": "By continuing you accept our",
+    "lbl_registration_terms": "Terms and Conditions",
+    "lbl_registration_and": "and",
+    "lbl_registration_privacy": "Privacy Rules",
+    "lbl_registration_create_account" : "Create account",
+    "lbl_registration_have_account": "Are you have an account?",
+    "lbl_registration_login_now": "Login Now",
+
+    "__FORGOT_PASSWORD_PAGE__": "These content for forgot password page",
+    "lbl_retrieve_password": "Retrieve password",
+    "btn_continue": "Continue",
+
+    "__VERIFY_RESET_CODE_PAGE__": "These content for verify reset code page",
+    "lbl_code_sent_to": "Verification code sent to",
+    "lbl_enter_verification_code": "Enter verification code",
+    "lbl_code_not_sent": "Verification code not sent ?",
+    "lbl_send_again": "Send code again",
+
+
+    "__RESET_PASSWORD_PAGE__": "These content for verify reset password page",
+    "btn_save": "Save And Continue",
+
+    "__BOTTOM_NAVIGATION_BAR__": "These content for bottom navigation bar",
+    "btn_nav_bar_item_discover" : "Discover",
+    "btn_nav_bar_item_chat" : "Chat",
+    "btn_nav_bar_item_notification" : "Notification",
+    "btn_nav_bar_item_more" : "More"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018763300262",
+    "firebase_url": "https://fcm-flutter-nodejs.firebaseio.com",
+    "project_id": "fcm-flutter-nodejs",
+    "storage_bucket": "fcm-flutter-nodejs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018763300262:android:1fa60b079f5152ec9cd367",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018763300262-gc1t4sothbsr1vjor5ekrul2sghn445d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUx5bcpHmhgMpUpvDPNCcjDuDB-0SoOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018763300262-gc1t4sothbsr1vjor5ekrul2sghn445d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

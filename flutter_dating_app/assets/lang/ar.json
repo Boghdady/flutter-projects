@@ -1,0 +1,49 @@
+{
+    "__WELCOME_PAGE__": "These content for welcome page",
+    "app_name": "ديتوو",
+    "app_description": "و تطبيق يساعدك علي البحث عن مكان للاستضافة  معرفة  للبحث عن اصذقاء جدد ورائع ومهم جدا",
+    "btn_discover": "اكتشف التطبيق",
+    "btn_login": "تسجيل الدخول",
+    "btn_sign_up": "إنشاء حساب",
+
+    "__Login_PAGE__": "These content for welcome page",
+    "lbl_login_title" : "مرحباً بك",
+    "lbl_login_subtitle": "يجب ان تسجل لتتمكن من استخدام التطبيق",
+    "txt_login_email" : "البريد الإلكتروني",
+    "txt_login_password" : "كلمة المرور",
+    "lbl_login_forget_password" : "نسيت كلمة المرور؟",
+    "lbl_login_new_user": "هل انت مستخدم جديد؟",
+    "lbl_login_create_account": "انشئ حساب",
+
+    "__REGISTRATION_PAGE__": "These content for registration page",
+    "lbl_registration_title" : "اهلاً بيك",
+    "lbl_registration_name" : "الاسم",
+    "lbl_registration_subtitle": "من فضلك ادخل بياناتك",
+    "txt_retype_password" : "تأكيد كلمة المرور",
+    "lbl_registration_continue": "بأستمرارك قد تكون وافقت علي",
+    "lbl_registration_terms": "الشروط والاحكام",
+    "lbl_registration_and": "و",
+    "lbl_registration_privacy": "سياسة الخصوصية",
+    "lbl_registration_create_account" : "إنشاء حساب",
+    "lbl_registration_have_account": "هل لديك حساب؟",
+    "lbl_registration_login_now": "سجل الآن",
+
+    "__FORGOT_PASSWORD_PAGE__": "These content for forgot password page",
+    "lbl_retrieve_password": "إستعادة كلمة المرور",
+    "btn_continue": "إستمرار",
+
+    "__VERIFY_RESET_CODE_PAGE__": "These content for verify reset code page",
+    "lbl_code_sent_to": "تم إرسال الكود إلي",
+    "lbl_enter_verification_code": "أدخل كود التحقق",
+    "lbl_code_not_sent": "لم يصل إليك الكود ؟",
+    "lbl_send_again": "إعادة إرسال الكود",
+
+    "__RESET_PASSWORD_PAGE__": "These content for verify reset password page",
+    "btn_save": "حفظ واستمرار",
+
+    "__BOTTOM_NAVIGATION_BAR__": "These content for bottom navigation bar",
+    "btn_nav_bar_item_discover" : "اكتشف",
+    "btn_nav_bar_item_chat" : "المحادثات",
+    "btn_nav_bar_item_notification" : "الاشعارات",
+    "btn_nav_bar_item_more" : "المزيد"
+}
